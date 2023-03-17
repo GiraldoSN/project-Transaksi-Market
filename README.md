@@ -1,4 +1,4 @@
-
+Outputnya:
 public function confirm(Requesr $request)
 		{
 			$temp = TemPurchasr::all();
